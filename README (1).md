@@ -55,7 +55,7 @@ Le modèle KNN est évalué à l’aide de métriques standards telles que la pr
 
 ## 🧑‍💻 Auteur
 
-Projet réalisé par [Ton Nom] – [LinkedIn/GitHub profil]
+Projet réalisé par Riadh HALILA
 
 ---
 © 2025 – Projet pédagogique à but démonstratif.
